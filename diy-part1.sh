@@ -15,3 +15,4 @@
 
 # 添加feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
+echo 'src-git modem https://github.com/FUjr/QModem' >> feeds.conf.default
